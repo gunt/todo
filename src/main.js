@@ -1,8 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
-//import { MdField } from 'vue-material/dist/components';
+//import { MdField } from 'vue-material';
 import VueMaterial from 'vue-material';
 import 'vue-material/dist/vue-material.min.css';
+import 'vue-material/dist/theme/default-dark.css'
 
 Vue.use(VueMaterial);
 
